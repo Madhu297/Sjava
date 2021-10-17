@@ -39,7 +39,7 @@ public class Java_Practice {
         System.out.println("num2: "+num2);
         
       
-	    
+       
 	}
 
 }
