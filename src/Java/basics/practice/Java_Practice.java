@@ -26,14 +26,18 @@ public class Java_Practice {
         
         System.out.println("The sum is: "+sum);
         
-               
         int x = 44;
         int y = 129;
         int z = x/y;
         
         System.out.println("Division: " +z);
         
-            		
+        double num1 = 10;
+        double num2 = 15;
+        
+        System.out.println("num1: "+num1);
+        System.out.println("num2: "+num2);
+        
       
 	    
 	}
