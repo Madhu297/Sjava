@@ -24,9 +24,17 @@ public class Java_Practice {
         
         int sum = first + second;
         
-        System.out.println("The sume is: "+sum);
+        System.out.println("The sum is: "+sum);
         
-       
+               
+        int x = 44;
+        int y = 129;
+        int z = x/y;
+        
+        System.out.println("Division: " +z);
+        
+            		
+      
 	    
 	}
 
